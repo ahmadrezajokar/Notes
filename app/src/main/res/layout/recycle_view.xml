@@ -32,5 +32,6 @@
             android:layout_marginBottom="@dimen/_10sdp"
             android:layout_marginLeft="@dimen/_10sdp"
             tools:ignore="RtlHardcoded" />
+
     </androidx.cardview.widget.CardView>
 </layout>
