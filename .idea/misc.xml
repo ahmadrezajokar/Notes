@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/drawable-v24/background_buybutton.xml" value="0.2325" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/drawable-v24/background_salebutton.xml" value="0.2325" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/drawable-v24/ic_trash.xml" value="0.208" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_layouttest.xml" value="0.371875" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_main.xml" value="0.2338935574229692" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_note_edit.xml" value="0.371875" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_note_main_page.xml" value="0.371875" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_note_text.xml" value="0.371875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/layout.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/layouttest.xml" value="0.37083333333333335" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/Notes/app/src/main/res/layout/recycle_view.xml" value="0.37083333333333335" />
       </map>
     </option>
