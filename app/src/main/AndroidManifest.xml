@@ -16,6 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Notes"
         tools:targetApi="31">
+
         <activity
             android:name=".view.NoteEdit"
             android:exported="false" />
